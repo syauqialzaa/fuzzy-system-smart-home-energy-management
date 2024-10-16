@@ -12,6 +12,3 @@ There is **input variables** (time_of_day, outdoor_temp, occupancy, solar_intens
 4. **Flexibility**: The system is flexible and can handle various situations. For example, not all rules use all input variables.
 5. **Overlap**: Some situations may fulfill more than one rule. In this case, the fuzzy system will combine the results of the applicable rules to produce the final output.
 6. **Extensibility**: The system can be easily extended by adding more rules to handle special situations or to improve control precision.
-
-## Source Code
-Github Repository: https://github.com/syauqialzaa/fuzzy-system-smart-home-energy-management
