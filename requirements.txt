@@ -1,0 +1,5 @@
+python3.12 -m venv .venv
+sudo apt-get install python3-scipy
+pip install scipy
+pip install networkx
+pip install numpy scikit-fuzzy matplotlib
